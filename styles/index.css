@@ -463,7 +463,7 @@
 }
 
 .stat-number {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 800;
   color: #2c3e50;
   line-height: 1;
@@ -483,16 +483,6 @@
   font-size: 0.95rem;
   line-height: 1.5;
   margin-bottom: 0;
-}
-
-.stat-number {
-  font-size: 3rem;
-  font-weight: 800;
-  color: #2c3e50;
-  line-height: 1;
-  margin-bottom: 0.5rem;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  white-space: nowrap; /* Prevent line breaks in formatted numbers */
 }
 
 /* Responsive Design */
